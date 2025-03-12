@@ -101,15 +101,6 @@
             "minimum_reward":250000
          }
       },
-       {
-      "name": "migaloo",
-      "address": "migaloovaloper1qvqqflpzkkakzwdkm2dx6f25sxnknuga4f90qp",
-      "restake": {
-        "address": "migaloo1t3d2tlylpd2qllzm5uadcjpdm2u7v7pnklwhwy",
-        "run_time": ["04:00", "16:00"],
-         "minimum_reward": 250000
-      }
-    },
       {
       "name": "aura",
       "address": "auravaloper1282l7pgtfpfalgcdng9mjqura6m48a5855dfus",
